@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023-present Sylvain Bellemare <sbellem@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 # Based on https://github.com/ofek/hatch-showcase/blob/master/src/hatch_showcase/cli/__init__.py
 
 import click

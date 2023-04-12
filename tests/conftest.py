@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023-present Sylvain Bellemare <sbellem@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 import shutil
 from collections import namedtuple
 from pathlib import Path

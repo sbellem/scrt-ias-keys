@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2023-present Sylvain Bellemare <sbellem@gmail.com>
+#
+# SPDX-License-Identifier: MIT
+
 import argparse
 import gzip
 import mmap
