@@ -45,10 +45,8 @@ version-file = "src/secretelf/_version.py"
 [tool.hatch.build.targets.sdist]
 exclude = [
   "/.github",
+  "/tests/vectors",
 ]
-
-#[tool.hatch.version]
-#path = "src/secretelf/__about__.py"
 
 [tool.hatch.envs.default]
 dependencies = [
