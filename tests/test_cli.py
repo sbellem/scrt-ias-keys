@@ -2,7 +2,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-import pytest
 
 def test(secretelf, ias_keys):
     result = secretelf("iaskeys", "tests/vectors/secretd")
