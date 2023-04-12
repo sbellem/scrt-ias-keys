@@ -68,12 +68,12 @@ def secretelf():
 
 @pytest.fixture
 def ias_api_key():
-    return ""
+    return "be5e574b2d4ce101eaf374c5a6ba6f40"
 
 
 @pytest.fixture
 def ias_spid():
-    return ""
+    return "6C7BCCC92E1C7308084D737230F38022"
 
 
 @pytest.fixture
